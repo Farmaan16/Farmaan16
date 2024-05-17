@@ -1,10 +1,16 @@
-### Hi there 👋
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://your-link-here)
 
-<img align="Right" src="[https://your-gif-url-here.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)" width="300"/>
+
+<h1 align="left"> Hey 👋 I'm Mohammed Farman</h1>
+<P align = "left">
+I'm a self-taught Full Stack Developer passionate about crafting dynamic web applications. Skilled in both front-end and back-end technologies,  I focus on continuous learning to stay updated with industry advancements. </P>
+
+
 
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fxrmxxn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/1Farman6) 
+
 
 # 💻 Tech Stack:
 
@@ -15,6 +21,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+ <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
+
 
 ### Front End Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
